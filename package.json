@@ -1,0 +1,19 @@
+{
+  "name": "web-development-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s3604730/Web-Development-BootCamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s3604730/Web-Development-BootCamp/issues"
+  },
+  "homepage": "https://github.com/s3604730/Web-Development-BootCamp#readme"
+}
