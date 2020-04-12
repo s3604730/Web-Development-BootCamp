@@ -1,0 +1,16 @@
+h1 { 
+    color: red;
+
+
+}
+
+
+img{
+    width: 400px;
+    
+
+}
+img:hover{
+    width:1000px;
+}
+
