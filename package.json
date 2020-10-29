@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/s3604730/Web-Development-BootCamp/issues"
   },
-  "homepage": "https://github.com/s3604730/Web-Development-BootCamp#readme"
+  "homepage": "https://github.com/s3604730/Web-Development-BootCamp#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
